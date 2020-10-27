@@ -5,7 +5,8 @@
 <p><em>量子力学领军人物 <br>
   熟练使用c++编写hello world <br>
   对golang的println略有研究<br>
-  超级马里奥一条命通关选手
+  超级马里奥一条命通关选手<br>
+  以上只有一条是假的
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
  
 </em></p>
