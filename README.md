@@ -1,6 +1,6 @@
 <h2> Hi, I'm AntiWar3</h2>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=taielab&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=antiwar3&show_icons=true&theme=radical" width="380">
 
 <p><em>本人原子力学领军人物 <br>
   熟练使用c++编写hello world <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
@@ -10,3 +10,28 @@
 [![GitHub hahwul](https://img.shields.io/github/followers/taielab?label=follow%20github&style=flat-square)](https://github.com/taielab)
 
 <br>
+
+### 更多关于我...
+
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main() {
+  me := &Me{
+    Job: "windows安全工程师，游戏安全工程师",
+    Pronouns: "He/Him",
+    Code: "c++ and Go and Everythings",
+    BestAndFavoriteSkill: "Game Hacking and SoftWare Hacking :D"
+  }
+  _ = me
+}
+```
+---
+
