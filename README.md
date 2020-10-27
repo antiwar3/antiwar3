@@ -2,8 +2,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=antiwar3&show_icons=true&theme=radical" width="380">
 
-<p><em>本人原子力学领军人物 <br>
+<p><em>原子力学领军人物 <br>
   熟练使用c++编写hello world <br>
+  对golang的println略有研究<br>
   超级马里奥一条命通关选手
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
  
