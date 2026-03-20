@@ -2,14 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=antiwar3&show_icons=true&theme=radical" width="380">
 
-<p><em>量子力学领军人物 <br>
-  熟练使用c++编写hello world <br>
-  对golang的println略有研究<br>
-  超级马里奥一条命通关选手<br>
-  以上只有一条是假的
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
- 
-</em></p>
+
 
 [![GitHub hahwul](https://img.shields.io/github/followers/antiwar3?label=follow%20github&style=flat-square)](https://github.com/antiwar3)
 
