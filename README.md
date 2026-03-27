@@ -1,7 +1,5 @@
 <h2> Hi, I'm AntiWar3</h2>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=antiwar3&show_icons=true&theme=radical" width="380">
-
 
 
 <br>
