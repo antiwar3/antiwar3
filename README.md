@@ -4,8 +4,6 @@
 
 
 
-[![GitHub hahwul](https://img.shields.io/github/followers/antiwar3?label=follow%20github&style=flat-square)](https://github.com/antiwar3)
-
 <br>
 
 ### 更多关于我...
